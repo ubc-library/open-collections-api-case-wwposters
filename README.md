@@ -1,4 +1,4 @@
-# IIIF and Mirador for aggregating collections from different institutions
+# Aggregating collections from different institutions
 
 Demo integrating the collections from World Digital Library (which contains collections from Library of Congress, British Library, among others), University of Washington and University of British Columbia, using IIIF and Mirador viewer.
 
