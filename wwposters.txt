@@ -1,0 +1,1328 @@
+<http://dx.doi.org/10.14288/1.0038230> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/creator> "Hider, Arthur H., 1870-1952"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038230/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/extent> "1 poster ; 71 x 53 cm"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/identifier> "SPAM418C"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038230"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/publisher> "Qu\u00E2\u0088\u009A\u00C2\u00A9bec : [L'Association] ; Imp. \"Le Soleil"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM418C"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/subject> "French-Canadians."@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/subject> "War posters, Canadian"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Qu\u00E9bec (Province)"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/title> "Canadiens-Francais enrolez-vous!"@en .
+<http://dx.doi.org/10.14288/1.0038230> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038231/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/extent> "1 poster ; 75.5 x 50 cm"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Design features colour drawing, signed \"David Wi?on, W.F.B.\" Possibly David Wilson, 1872-1935, or David Wilson, op. 1895-1916."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/identifier> "SPAM413C"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038231"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/publisher> "London : The Dangerfield Printing Co. Ltd."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM413C"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/subject> "War posters, British."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Great Britain."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Propaganda."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Women."@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/title> "Red cross or iron cross? Wounded and a prisoner, our soldier cries for water. The German \"sister\" pours it on the ground before his eyes. There is no woman in Britain who would do it. There is no woman in Britain who will forget it"@en .
+<http://dx.doi.org/10.14288/1.0038231> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/creator> "L'Association Civile de Recrutement du District de Qu\u00E2\u0088\u009A\u00C2\u00A9bec"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038232/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/extent> "1 poster ; 71 x 53 cm"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/identifier> "SPAM419C"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038232"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/publisher> "Qu\u00E2\u0088\u009A\u00C2\u00A9bec : [L'Association] ; Imp. \"Le Soleil"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM419C"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/subject> "French-Canadians."@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Qu\u00E9bec (Province)"@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/title> "La France appell tous ses enfants! La carri\u00E8re Militaire est belle et promet des avancements. Enrolez-vous dans le 167ieme Bataillion F.E.C. Canadien-Francais..."@en .
+<http://dx.doi.org/10.14288/1.0038232> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/creator> "Christy, Howard Chandler, 1873-1952"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/created> "[1917?]"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038233/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/extent> "1 poster ; 105 x 69 cm"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/identifier> "SPAM417C"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038233"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/publisher> "[Boston, MA : Forbes]"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM417C"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/subject> "United States. Navy--Recruiting, enlistment, etc."@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/title> "I want you for the navy. Promotion for any one enlisting, apply any recruiting station or postmaster"@en .
+<http://dx.doi.org/10.14288/1.0038233> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038234/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/extent> "1 poster ; 68.5 x 104 cm"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/identifier> "SPAM420C"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038234"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/publisher> "Montreal : [s.n.] ; printed by Howell Lith, of Hamilton"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM420C"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Qu\u00E9bec (Province)"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/subject> "War posters, Canadian"@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/subject> "French-Canadians."@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/title> "Tous les vrais Poil-Aux-Pattes s'enr\u00F4lent au 163e C.-F...."@en .
+<http://dx.doi.org/10.14288/1.0038234> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/creator> "Toronto. Central Recruiting Committee"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038235/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/extent> "1 poster ; 97 x 63.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "No. 4 Central Recruiting Committee, No. 2 Military Division, Toronto."@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/identifier> "SPAM414C"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038235"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/publisher> "Toronto : Stone Ltd."@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM414C"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/subject> "War posters, Canadian"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/subject> "Canada. Canadian Army--Recruiting, enlistment, etc."@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/title> "You are no exception. Join now"@en .
+<http://dx.doi.org/10.14288/1.0038235> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/creator> "Liberty Loan Committee"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/creator> "Sarka, Charles Nicolas, 1879-1960"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/description> "Design features coloured drawing of a soldier."@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038236/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/extent> "1 poster ; 48.5 x 30.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Copyright 1918, by Leslie's."@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/identifier> "SPAM416C"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038236"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/publisher> "New York : Liberty Loan Committee, Second Federal Reserve District. Printed by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM416C"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Finance--United States."@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/title> "Lend him a hand, buy liberty bonds"@en .
+<http://dx.doi.org/10.14288/1.0038236> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/creator> "National War Savings Committee"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038237/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/extent> "1 poster ; 68.5 x 52.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/identifier> "SPAM415C"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038237"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/publisher> "Ottawa : National War Savings Committee"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM415C"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/subject> "War posters, Canadian"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/title> "Apply to post offices, banks, railway offices and stores for thrift stamps. We licked them at the front, you lick them at the back"@en .
+<http://dx.doi.org/10.14288/1.0038237> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038238/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/extent> "1 poster ; 74 x 50.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Drawing signed by Raleigh or R.A. Leigh.  Possibly Henry Patrick Raleigh, 1880-1944."@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/identifier> "SPAM412C"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038238"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/publisher> "Chicago : Edwards and Deutsch Litho. Co."@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM412C"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Finance--United States."@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/subject> "Bonds--United States."@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/title> "Halt the Hun! Buy U.S. government bonds, third liberty loan"@en .
+<http://dx.doi.org/10.14288/1.0038238> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/creator> "Ville d'Andenne"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/created> "1919"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038239/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/extent> "1 broadside ; 57 x 43.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/identifier> "SPAM427C"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038239"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/publisher> "Andenne [La Belgique] : Imprimerie Veuve Warnotte"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM427C"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada."@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Belgium."@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/title> "Gloire, honneur et reconnaissance aux braves canadiens!"@en .
+<http://dx.doi.org/10.14288/1.0038239> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/alternative> "Proclamation population of Lun\u00E9ville. German troops seized the city of Lun\u00E9ville"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/creator> "Goeringer, G\u00E9n\u00E9ral Commandant en Chef des troupes \u00E0 Lun\u00E9ville"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/created> "1914"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/description> "World War I broadside on the German occupation of France."@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038240/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/extent> "1 broadside ; 85 x 48 cm"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/identifier> "SPAM437C"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038240"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/publisher> "Lun\u00E9ville, France : Imprimerie de Lun\u00E9ville"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM437C"@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/title> "Proclamation a la population de Lun\u00E9ville. Les troupes allemandes se sont empar\u00E9es de la Ville de Lun\u00E9ville."@en .
+<http://dx.doi.org/10.14288/1.0038240> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/creator> "Talaupe, Gaston"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038241/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/extent> "1 broadside ; 56.5 x 43 cm"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/identifier> "SPAM428C"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038241"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/publisher> "Mons [La Belgique] : Imprimerie Arthur Princelle"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM428C"@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Canada."@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Belgium."@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/subject> "Belgium--History--German occupation, 1914-1918."@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/title> "A La Population de Mons. Apr\u00E8s 51 mois de souffrances caus\u00E9es par l'occupation inique.."@en .
+<http://dx.doi.org/10.14288/1.0038241> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/creator> "Damoiseaux, Maurice"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/description> "World War I poster produced upon the liberation of Belgium from German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038242/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/extent> "1 poster ; 85 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/identifier> "SPAM438C"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038242"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/publisher> "Mons, La Belgique : Imp. L\u00E9on Dequesne"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM438C"@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/title> "Proclamation. Le Gouverneur du Hainaut. Aux autorit\u00E9s et fonctionnaires de l'Etat et de la Province, aux administrations communales, aux habitants de la Province..."@en .
+<http://dx.doi.org/10.14288/1.0038242> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/alternative> "Warnung. Schwere Strafen werden \u00FCber denjenigen verhaengt, der durch irgendwelche Handlungen die Ernte"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038243/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/extent> "1 broadside : black and white ; 62 x 43 cm"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/identifier> "SPAM423C"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038243"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/publisher> "Denain, France : [Etappen-Kommandantur]"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM423C"@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/subject> "WWorld War, 1914-1918--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/subject> "France--History--German occupation, 1914-1918."@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/title> "Avertissement. Des fortes punitions seront inflig\u00E9es a ceux qui endommagen par n'importe quel moyen la moisson ..."@en .
+<http://dx.doi.org/10.14288/1.0038243> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/created> "1914"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/description> "World War I broadside produced upon the occupation of Belgium by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038244/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/extent> "1 broadside ; 65 x 50 cm"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/identifier> "SPAM440C"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038244"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/publisher> "Charleroi, [La Belgique] : [Le G\u00E9n\u00E9ral Allemand, Commandant la Ville]"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM440C"@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/title> "Proclamation. La Population de la Ville est des ce jour, sous l'Autorit\u00E9 et la Sauvegarde de l'Arm\u00E9e Allemande. Les Habitants sont tenus de reprendre leurs occupations sans d\u00E9lai..."@en .
+<http://dx.doi.org/10.14288/1.0038244> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/description> "World War I recruiting poster."@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038245/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/extent> "1 poster ; 93 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Fragile condition."@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/identifier> "SPAM435C"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038245"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/publisher> "Montreal : Printed by Gazette Printing Co."@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM435C"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/title> "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station"@en .
+<http://dx.doi.org/10.14288/1.0038245> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/alternative> "To the women of Canada ... haven't you encouraged a man to enlist today?"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/creator> "L'Association Civile de Recrutement du District de Qu\u00E9bec"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/description> "World War I recruitment poster."@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038246/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/extent> "1 poster ; 93 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Fragile condition"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/identifier> "SPAM436C"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038246"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/publisher> "Montreal : La Compagnie de Publication \"Le Soleil"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM436C"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/title> "Aux Femmes du Canada ... n'encouragerez-vous pas un homme a s'enr\u00F4ler aujourd'hui?"@en .
+<http://dx.doi.org/10.14288/1.0038246> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/creator> "Damoiseaux, Maurice"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/description> "World War I poster produced upon the liberation of Belgium from German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038247/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/extent> "1 poster ; 73 x 54.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/identifier> "SPAM439C"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038247"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/publisher> "Mons, La Belgique : Imp. L\u00E9on Dequesne"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM439C"@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/title> "Proclamation. Le Gouverneur du Hainaut. Aux autorit\u00E9s et fonctionnaires de l'Etat et de la Province, aux administrations communales, aux habitants de la Province..."@en .
+<http://dx.doi.org/10.14288/1.0038247> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/alternative> "Bekanntmachung. Es wird erneut auf die Bekanntmachung der Et.-Inspektion 6 vom 18, Mai 1915 hingewiesen, in der bestimmt ist: Es ist verboten bei Tage oder bei nacht im Freien innerhalb oder ausserhalb der Ortschaften..."@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038248/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/extent> "1 broadside ; 42.5 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/identifier> "SPAM424C"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038248"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/publisher> "Denain, France : [Etappen-Kommandantur]"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM424C"@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/subject> "France--History--German occupation, 1914-1918."@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/title> "Avis. L'attention de la population est attir\u00E9e de nouveau sur l'ordonnance de l'Inspection des \u00C9tapes du 18 Mai 1915, disant: Il est d\u00E9fendu, le jour et la nuit, d'allumer ou d'entretenir un feu d\u00E9couvert, en plein air, a l'int\u00E9rieur ou en dehors des agglom\u00E9rations..."@en .
+<http://dx.doi.org/10.14288/1.0038248> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/alternative> "Order concerning the delivery of telephone equipment..."@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038249/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/extent> "1 broadsheet ; 42 x 65 cm"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Sign\u00E9: Le Commandant d'\u00C9tapes, Baron von M\u00FCnchhausen, Major"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/identifier> "SPAM429C"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038249"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/publisher> "Denain, [France] : [s.n.]"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM429C"@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/subject> "World War, 1914-1918--France."@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/subject> "France--History--German occupation, 1914-1918."@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/title> "Arr\u00EAt\u00E9 concernant la remise des Appareils T\u00E9l\u00E9phoniques..."@en .
+<http://dx.doi.org/10.14288/1.0038249> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/creator> "Industrial Information Division. Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/creator> "Taylor, Frederick Bourchier, 1906-1987"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/created> "1945-04"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/description> "World War II poster.  News on verso, artwork on recto."@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038250/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/extent> "1 poster ; 92 x 61.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "  "@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Artwork by Geoffrey Bagley, Mayo, Frederick B. Taylor, H. Aslin.  Possibly Geoffrey Spink Bagley, b. 1901, and Henry Mayo Bateman, 1887-1970."@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/identifier> "SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038250"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/publisher> "[Ottawa] : Produced by the National Film Board ; printed in Montreal by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/title> "Wall news April 1945"@en .
+<http://dx.doi.org/10.14288/1.0038250> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/creator> "Industrial Information Division. Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/creator> "Taylor, Frederick Bourchier, 1906-1987"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/created> "1944-12"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/description> "World War II poster.  News on verso, artwork on recto."@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038251/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/extent> "1 poster ; 92 x 61.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "  "@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Artwork by Geoffrey Bagley, Mayo, Frederick B. Taylor, H. Aslin.  Possibly Geoffrey Spink Bagley, b. 1901, and Henry Mayo Bateman, 1887-1970."@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/identifier> "SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038251"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/publisher> "[Ottawa] : Produced by the National Film Board ; printed in Montreal by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/title> "Wall news December 1944"@en .
+<http://dx.doi.org/10.14288/1.0038251> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/creator> "Industrial Information Division. Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/creator> "Taylor, Frederick Bourchier, 1906-1987"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/created> "1945-01"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/description> "World War II poster.  News on verso, artwork on recto."@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038252/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/extent> "1 poster ; 92 x 61.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "  "@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Artwork by Geoffrey Bagley, Mayo, Frederick B. Taylor, H. Aslin.  Possibly Geoffrey Spink Bagley, b. 1901, and Henry Mayo Bateman, 1887-1970."@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/identifier> "SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038252"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/publisher> "[Ottawa] : Produced by the National Film Board ; printed in Montreal by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/title> "Wall news January 1945"@en .
+<http://dx.doi.org/10.14288/1.0038252> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/creator> "Industrial Information Division. Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/creator> "Taylor, Frederick Bourchier, 1906-1987"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/created> "1945-05"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/description> "World War II poster.  News on verso, artwork on recto."@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038253/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/extent> "1 poster ; 92 x 61.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "  "@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Artwork by Geoffrey Bagley, Mayo, Frederick B. Taylor, H. Aslin.  Possibly Geoffrey Spink Bagley, b. 1901, and Henry Mayo Bateman, 1887-1970."@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/identifier> "SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038253"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/publisher> "[Ottawa] : Produced by the National Film Board ; printed in Montreal by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/title> "Wall news May 1945"@en .
+<http://dx.doi.org/10.14288/1.0038253> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/creator> "Industrial Information Division. Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/creator> "Taylor, Frederick Bourchier, 1906-1987"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/created> "1945-02"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/description> "World War II poster.  News on verso, artwork on recto."@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038254/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/extent> "1 poster ; 92 x 61.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "  "@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Artwork by Geoffrey Bagley, Mayo, Frederick B. Taylor, H. Aslin.  Possibly Geoffrey Spink Bagley, b. 1901, and Henry Mayo Bateman, 1887-1970."@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/identifier> "SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038254"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/publisher> "[Ottawa] : Produced by the National Film Board ; printed in Montreal by Allied Printing"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM406C"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/title> "Wall news February 1945"@en .
+<http://dx.doi.org/10.14288/1.0038254> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/description> "World War I broadside produced during the German occupation of France."@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038280/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/extent> "1 broadside ; 31 x 42.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/identifier> "SPAM441C"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038280"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/publisher> "Denain [France] : [Der Etappen Kommandant]"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM441C"@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/title> "Interdiction de l'emploi des cerfs-volants. L'usage des cerfs-volants est enti\u00E8rement interdit \u00E0 toutes places..."@en .
+<http://dx.doi.org/10.14288/1.0038280> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/alternative> "An announcement from Hindenburg to the German people"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/creator> "von Hindenburg, Generalfedmarshall"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/created> "1918-09-02"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/description> "World War I poster produced in Germany."@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038281/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/extent> "1 broadside ; 72 x 48 cm"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/identifier> "SPAM457C"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038281"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/language> "German"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/publisher> "Berlin-Sch\u00E2\u0088\u009A\u00E2\u0088\u0082neberg, Germany : Vereinigte Kunstinstitute [Druck]"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM457C"@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/title> "Eine Kundgebung Hindenburgs an das deutsche volk..."@en .
+<http://dx.doi.org/10.14288/1.0038281> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/created> "[1922?]"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/description> "War poster, probably World War I. Poster depicts soldier standing in a field, \"After the storm\"."@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038282/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/extent> "1 poster ; 60 x 44 cm"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Insignia of beaver and inverted triangle, with \"W.S.S.\" inside. \"W.P. 1\" printed on lower left corner. Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/identifier> "SPAM460C"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038282"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/publisher> "[Canada?] : [National War Savings Committee?]"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM460C"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/title> "Help the work of reconstruction. Buy war savings stamps"@en .
+<http://dx.doi.org/10.14288/1.0038282> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/alternative> "Order. With respect to the order of June 21, number 4, it is ordered that:"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/description> "World War I broadside produced in France during the German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038283/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/extent> "1 broadside ; 44 x 33 cm"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/identifier> "SPAM452C"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038283"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/publisher> "Denain [France] : Etappen-Kommandantur Denain"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM452C"@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/title> "Ordonnance. Relativement \u00E0 l'ordre du 21 juin, chiffre 4, il est ordonn\u00E9: ..."@en .
+<http://dx.doi.org/10.14288/1.0038283> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/alternative> "Enl\u00E8vement du Charbon aux Fosses par Voitures..."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/alternative> "The removal of coal from mines by means of vehicles..."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/created> "1917"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038284/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/extent> "1 broadside : black and white ; 42 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/identifier> "SPAM421C"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038284"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/language> "German"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/publisher> "[s.l. : s.n.]"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM421C"@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/subject> "WWorld War, 1914-1918--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/subject> "France--History--German occupation, 1914-1918."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/title> "Kohlenabfuhr aus Gruben mittelst Fuhrwerk..."@en .
+<http://dx.doi.org/10.14288/1.0038284> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/creator> "Talaupe, Gaston"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/created> "[1918]"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/description> "World War I broadside produced after the liberation of Belgium from German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038285/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/extent> "1 broadside ; 49 x 36 cm"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/identifier> "SPAM451C"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038285"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/publisher> "Mons [La Belgique] : Administration de la Ville de Mons. Imprimerie provinciale du Hainaut"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM451C"@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/title> "A la population. Le vendredi 15 novembre, \u00E0 10h.1/4, aura lieu le d\u00E9fil\u00E9, sur la Grand'Place, des d\u00E9l\u00E9gations de trois corps de l'Arm\u00E9e britannique, sous le commandement du g\u00E9n\u00E9ral anglais Horne..."@en .
+<http://dx.doi.org/10.14288/1.0038285> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/creator> "Cinq-Mars, Capitaine d'Infanterie, Arm\u00E9e Canadienne. Commandant de place"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/description> "World War I broadside produced in Belgium during the German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038286/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/extent> "1 broadside ; 32 x 50 cm"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/identifier> "SPAM448C"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038286"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/publisher> "Mons [La Belgique] : Imprimerie Arthur Princelle"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM448C"@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/title> "Avis. Circulation. Pour circuler sur le territoire du canton, les habitants doivent s'adresser \u00E0 l'autorit\u00E9 locale pour des \"laissez-passer\" ..."@en .
+<http://dx.doi.org/10.14288/1.0038286> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/created> "1922"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/description> "Poster depicts nurse standing in a red cross.  World War I poster."@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038287/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/extent> "1 poster ; 61 x 46 cm"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/identifier> "SPAM461C"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038287"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/publisher> "Regina : Leader Publishing Co."@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM461C"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/title> "Saskatchewan million dollar campaign, June 17, 1922"@en .
+<http://dx.doi.org/10.14288/1.0038287> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/description> "World War I poster."@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038288/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/extent> "1 poster ; 91 x 61 cm"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Printed on lower left corner \"W.P.2.\" Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/identifier> "SPAM464C"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038288"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/publisher> "Hamilton [Ontario?] : Printed by Howell Lith."@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM464C"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/title> "Have you bought your victory bonds?"@en .
+<http://dx.doi.org/10.14288/1.0038288> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/alternative> "Bekanntmachung. In Ergaenzung der Bekanntmachung betr. Kartoffel-Ernte vom juni 1916, ..."@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/description> "World War I broadside produced during the occupation of France by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038289/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/extent> "1 broadside ; 42 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/identifier> "SPAM446C"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038289"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/publisher> "Denain, France : [Etappen-Kommandantur Denain]"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM446C"@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/title> "Avis. Comme compl\u00E9ment a l'ordonance concernant la R\u00E9colte de Pommes de terre du mois de juin 1916 ..."@en .
+<http://dx.doi.org/10.14288/1.0038289> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/description> "World War I poster."@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038290/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/extent> "1 poster ; 76 x 51 cm"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Printed on bottom left: \"F.C. no. 22.\" Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/identifier> "SPAM462C"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038290"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/publisher> "London, England : Printed by Hazell, Watson & Viney Ltd. Litho."@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM462C"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/title> "The Kitchen is the [key] to victory. Eat less bread"@en .
+<http://dx.doi.org/10.14288/1.0038290> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038291/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/extent> "1 poster ; 25.5 x 38 cm"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Printed for H.M. Stationery Office by J. Weiner Ltd., London."@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/identifier> "SPAM396C"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038291"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/publisher> "[London?] : Ministry of Labour and National Service"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM396C"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/subject> "Weapons industry--Employees."@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/subject> "War posters, British."@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/title> "You can help to build me a gun. You can learn quickly and you will be working to win. Ask at any employment exchange for advice and full details. A job is waiting for you"@en .
+<http://dx.doi.org/10.14288/1.0038291> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/creator> "Nichol"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/description> "World War II poster.   Poster design features a cartoon of a beaver and Hitler."@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038292/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/extent> "1 poster ; 69 x 45 cm"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Issued by the Director of Public Information under authority of Hon. J.T. Thorson, Minister of National War Services"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/identifier> "SPAM477C"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038292"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/publisher> "Ottawa : Ministry of National War Services"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM477C"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/title> "Get your teeth into the job"@en .
+<http://dx.doi.org/10.14288/1.0038292> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/description> "World War I broadside produced during the occupation of France by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038293/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/extent> "1 broadside ; 31 x 42.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/identifier> "SPAM443C"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038293"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/publisher> "Denain [France] : [Der Etappen Kommandant]"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM443C"@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/title> "Avis. Devant tous les passages \u00E0 niveau ferm\u00E9s pour la circulation des trains, les personnes et voitures autoris\u00E9es \u00E0 circuler devront s'arr\u00EAter au moins \u00E0 50 m\u00E8tres des barri\u00E9res..."@en .
+<http://dx.doi.org/10.14288/1.0038293> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/alternative> "Bekanntmachung. I. Die vorhandenen Bestaende an..."@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/creator> "Hopffer"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/description> "World War I broadside produced during the occupation of France by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038294/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/extent> "1 broadside ; 42.5 x 62 cm"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/identifier> "SPAM442C"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038294"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/publisher> "[Artres, France?] : [Hopffer, Generalmajor u. Et. Kommandant]"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM442C"@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/title> "Avis. I. Tous les stocks existants..."@en .
+<http://dx.doi.org/10.14288/1.0038294> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/creator> "Cinq-Mars, Capitaine, Commandant de la Place"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/description> "World War I broadside produced in France during the German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038295/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/extent> "1 broadside ; 31.5 x 43 cm"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/identifier> "SPAM450C"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038295"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/publisher> "Denain, France : Imprimerie A. Palandre"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM450C"@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/title> "Avis tr\u00E8s important. Circulation. Pour circuler sur le territoire du canton, les habitants doivent s'adresser \u00E0 l'autorit\u00E9 locale qui seule, peut d\u00E9liverer les \"Laissez-passer\"..."@en .
+<http://dx.doi.org/10.14288/1.0038295> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/description> "Design features colour image of little girl clutching bonds."@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038296/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/extent> "1 poster ; 76 x 50.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/identifier> "SPAM411C"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038296"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/publisher> "New York : United States Printing & Lithograph Co.,"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM411C"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/subject> "World War, 1914-1918--Finance--United States."@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/subject> "Bonds--United States."@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/title> "My daddy bought me a government bond of the third liberty loan, did yours?"@en .
+<http://dx.doi.org/10.14288/1.0038296> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/alternative> "Proclamation. It is strictly forbitten for people of either sex to leave their homes..."@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/creator> "Le G\u00E9n\u00E9ral Commandant en Chef"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/created> "[between 1914 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/description> "World War I broadside produced during the occupation of France by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038297/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/extent> "1 broadside ; 31.5 x 42.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/identifier> "SPAM449C"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038297"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/publisher> "Lun\u00E9ville, France : Imprimerie de Lun\u00E9ville"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM449C"@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/title> "Proclamation. Il est strictement d\u00E9fendu aux habitants de tout sexe de quitter leurs maisons..."@en .
+<http://dx.doi.org/10.14288/1.0038297> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/created> "1917"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/description> "World War I broadside produced during the German occupation of France."@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038298/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/extent> "1 broadsheet ; 31 x 43 cm"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/identifier> "SPAM444C"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038298"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/publisher> "Haveluy [France?] : s.n"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM444C"@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/title> "Avis. En conformit\u00E9 de l'ordonnance de l'Arm\u00E9e allemande, en date du 14 juin 1917, placard\u00E9e sur les murs de la commune et concernant ..."@en .
+<http://dx.doi.org/10.14288/1.0038298> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/creator> "Canada. Department of Munitions and Supply"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038299/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/extent> "1 poster ; 31 x 46 cm"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Issued by the Director of Public Information under authority of Hon. J.T. Thorson, Minister of National War Services, Ottawa, for Scrap Rubber Division, Department of Munitions and Supply in co-operation with National Salvage Campaign Committee."@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/identifier> "SPAM392C"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038299"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/publisher> "Ottawa : Scrap Rubber Division, Department of Munitions and Supply, Ministry of National War Services"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM392C"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/subject> "War posters, Canadian"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/title> "Roll out the rubber. Every ounce of scrap rubber is needed for our mobile forces. Get in the scrap"@en .
+<http://dx.doi.org/10.14288/1.0038299> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/alternative> "Mayors! Subject: Harvesting potatoes..."@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/created> "1916"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/description> "World War I broadside produced during the occupation of France by Germany."@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038300/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/extent> "1 broadside ; 31 x 43 cm"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/identifier> "SPAM445C"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038300"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/publisher> "Denain, France : [Etappen Kommandantur Denain]"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM445C"@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/title> "Aux Maires! Objet: R\u00E9colte de pommes de terre..."@en .
+<http://dx.doi.org/10.14288/1.0038300> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/creator> "Cinq-Mars, Commandant de place"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/created> "1918"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/description> "World War I broadside."@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038301/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/extent> "1 broadside ; 33 x 51 cm"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/identifier> "SPAM447C"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038301"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/publisher> "Mons [La Belgique] : Imprimerie Arthur Princelle"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM447C"@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/title> "Avis. La circulation dans les rues est interdite aux civils entre 8 h. du soir et 6 h. du matin, sauf pour les porteurs..."@en .
+<http://dx.doi.org/10.14288/1.0038301> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/created> "1944"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/description> "World War II poster.    Image depicts the head of a U.S. soldier, a map of Japan, and a bomb."@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038302/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/extent> "1 poster ; 36 x 25 cm"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Donated by Simon Newcomb  Official U.S. Treasury Poster. WFD 958. 1944-0-610930."@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/identifier> "SPAM456C"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038302"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/publisher> "[Washington, D.C.?] : U.S. Government Printing Office"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM456C"@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/title> "Next! Japan. 6th war loan."@en .
+<http://dx.doi.org/10.14288/1.0038302> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/creator> "Sampson, Joseph Ernest 1887-1946"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/created> "[between 1915 and 1918?]"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/description> "World War I poster."@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038303/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/extent> "1 poster ; 90 x 61 cm"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Printed on lower left corner \"W.P.-3.\" Poster has three \"Buy victory bonds\" stickers affixed to the top. Donated by Simon Newcomb."@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/identifier> "SPAM463C"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038303"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/publisher> "[Canada : s.n.]"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM463C"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/title> "Oh please do Daddy. Buy me a victory bond"@en .
+<http://dx.doi.org/10.14288/1.0038303> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/created> "1942"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038304/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/extent> "1 poster ; 36.5 x 51 cm"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/identifier> "SPAM400C"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038304"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/publisher> "[Washington, D.C.] : U.S. Government Printing Office"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM400C"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/subject> "Destroyers (Warships)--United States."@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/subject> "World war II."@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/title> "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer"@en .
+<http://dx.doi.org/10.14288/1.0038304> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/creator> "National Salvage Office"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038305/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/extent> "1 poster ; 25.5 x 38 cm"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "Issued by Public Information, for National Salvage Office, Ottawa; under authority of Hon. J.G. Gardiner, Minister of National War Service."@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/identifier> "SPAM401C"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038305"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/publisher> "Ottawa : Ministry of National War Services"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM401C"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/title> "Save waste bones, they make glue for aircraft, and are used for explosives. Get in touch with your local committee"@en .
+<http://dx.doi.org/10.14288/1.0038305> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038331/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/extent> "1 poster ; 23 x 32 cm"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/identifier> "SPAM398C"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038331"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/publisher> "Ottawa : Wartime Information Board"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM398C"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/title> "When troops move, keep tongues still! Don't gossip!"@en .
+<http://dx.doi.org/10.14288/1.0038331> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/created> "1942"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038332/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/extent> "1 poster ; 36.5 x 51 cm"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/identifier> "SPAM399C"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038332"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/publisher> "[Washington, D.C.] : U.S. Government Printing Office"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM399C"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/title> "Farm scrap builds tanks & guns. 18 tons of scrap metal goes into a medium tank"@en .
+<http://dx.doi.org/10.14288/1.0038332> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/creator> "Delphien, M."@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/created> "1916-03-10"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038333/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/extent> "1 broadside ; 42.5 x 30.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "World War I broadside produced during the German occupation of France."@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/identifier> "SPAM454C"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038333"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/publisher> "Denain [Nord], France : Ville de Denain ; Imprimerie A. Palandre"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM454C"@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/title> "Perception de la taxe sur les chiens. Comme suite \u00E0 l'arr\u00EAt\u00E9 du Grand Quartier G\u00E9n\u00E9ral Allemand prescrivant la taxe sur les chiens et aux ordres compl\u00E9mentaires de la Commandanture de Denain..."@en .
+<http://dx.doi.org/10.14288/1.0038333> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/creator> "Office of War Information"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/created> "1943"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/description> "World War II poster.  Poster depicts a hand with a swastika on the sleeve plunging a dagger into a bible."@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038334/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/extent> "1 poster ; 50 x 71 cm"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "OWI Poster no. 76"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/identifier> "SPAM408C"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038334"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/publisher> "Washington, D.C. : Office of War Information"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM408C"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/subject> "Anti-Nazi movement--United States."@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/subject> "Anti-Nazi movement--Posters."@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/subject> "World war II."@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/title> "This is the enemy"@en .
+<http://dx.doi.org/10.14288/1.0038334> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/created> "1945"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/description> "World War II poster.  Poster design features colour print of two children, signed by Anton Brueli."@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038335/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/extent> "1 poster ; 47 x 66.5 cm"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "On recto: \"You can help harvest war crops by displaying this poster...\""@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/identifier> "SPAM407C"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038335"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/publisher> "[Washington, D.C.] : U.S. Government Printing Office"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM407C"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/title> "Going our way? Be a victory farm volunteer of the U.S. Crop Corps"@en .
+<http://dx.doi.org/10.14288/1.0038335> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/creator> "United States. Department of Agriculture."@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038336/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/extent> "1 poster ; 36 x 51 cm"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/identifier> "SPAM391C"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038336"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/publisher> "[Washington, D.C.] : Department of Agriculture, [194?]."@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM391C"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/subject> "War posters."@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/title> "He eats a ton a year: your farm can help"@en .
+<http://dx.doi.org/10.14288/1.0038336> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/isPartOf> "World War I Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/created> "1916-08-19"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038337/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/extent> "1 broadside ; 31 x 42 cm"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.w3.org/2009/08/skos-reference/skos.html#note> "World War I broadside produced in France during German occupation."@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.europeana.eu/schemas/edm/hasType> "Broadsides"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/identifier> "SPAM453C"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038337"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/language> "French"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/publisher> "Denain, France : Der Etappen Kommandant."@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War I Poster and Broadside Collection. SPAM453C"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/title> "Avis. Die Hundesperre ist aufgehoben. La d\u00E9fense de laisser courir librement les chiens est supprim\u00E9e"@en .
+<http://dx.doi.org/10.14288/1.0038337> <http://purl.org/dc/terms/type> "Still Image"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.europeana.eu/schemas/edm/dataProvider> "CONTENTdm"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/isPartOf> "World War II Poster and Broadside Collection"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/issued> "2013-10"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/created> "[194?]"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/description> "World War II poster."@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.europeana.eu/schemas/edm/aggregatedCHO> "https://open.library.ubc.ca/collections/wwposters/items/1.0038338/source.json"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/extent> "1 poster ; 50.5 x 76 cm"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/elements/1.1/format> "image/jpeg"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.w3.org/2009/08/skos-reference/skos.html#note> ""@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.europeana.eu/schemas/edm/hasType> "Posters"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/identifier> "SPAM409C"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.europeana.eu/schemas/edm/isShownAt> "10.14288/1.0038338"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/language> "English"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://www.europeana.eu/schemas/edm/provider> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/publisher> "London ; Edinburgh : The National Savings Committee and the Scottish Savings Committee"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/publisher> "Vancouver : University of British Columbia Library"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/rights> "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from Rare Books and Special Collections: http://rbsc.library.ubc.ca"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/source> "Original Format: University of British Columbia. Library. Rare Books and Special Collections. World War II Poster and Broadside Collection. SPAM409C"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/subject> "World war II"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/subject> "War posters, British."@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/title> "Put your trust in the Navy & your money in savings certificates"@en .
+<http://dx.doi.org/10.14288/1.0038338> <http://purl.org/dc/terms/type> "Still Image"@en .
