@@ -13,6 +13,8 @@ https://www.wdl.org/en/search/?additional_subjects=War%20posters
 https://content.lib.washington.edu/postersweb/index.html
 http://digitalcollections.lib.washington.edu/cdm/search/collection/posters
 
+Application is available on the UBC secure server at: https://mirador.library.ubc.ca/. UBC on-campus access only, with myvpn connection.
+
 ![mirador_WWposters_v02.gif](https://github.com/carolamigo/ubc_mirador_WWposters/blob/master/mirador_WWposters_v02.gif)
 
 ### How to do it:
